@@ -2,7 +2,7 @@
   "name": "react-dnn-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yoooee.github.io",
+  "homepage": "https://yoooee.github.io/react-dnn-test",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
